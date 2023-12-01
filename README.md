@@ -42,7 +42,7 @@ Only add extensions that you have personally tested and verified to work with th
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [Creative Commons License](LICENSE) - see the LICENSE file for details.
 
 ## Fun-Fact about the Project Name
 
