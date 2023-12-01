@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
-  <Metadata>
-    <Identity Id="BasePack.aef34310-dae8-420a-8b3b-947fdd7522e4" Version="1.0" Language="en-US" Publisher="msg systems AG" />
-    <DisplayName>BasePack</DisplayName>
-    <Description>Extension Pack</Description>
-  </Metadata>
-  <Installation>
-    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
-      <ProductArchitecture>amd64</ProductArchitecture>
-    </InstallationTarget>
-  </Installation>
-  <Dependencies>
-    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
-  </Dependencies>
-  <Prerequisites>
-    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
-  </Prerequisites>
+    <Metadata>
+        <Identity Id="BasePack.aef34310-dae8-420a-8b3b-947fdd7522e4" Version="1.1" Language="en-US" Publisher="Gordon Breuer" />
+        <DisplayName>Xanathar's VS-Bag of Everything</DisplayName>
+        <Description xml:space="preserve">This pack is designed to streamline the development environment setup in Visual Studio by installing a curated set of extensions. Contributions to this extension pack are welcome. If you have suggestions for additional extensions or improvements, please open an issue or submit a pull request. Only add extensions that you have personally tested and verified to work with the latest version of Visual Studio 2022, and that you believe are essential / useful for a broad range of users.</Description>
+        <MoreInfo>https://github.com/Anheledir/Xanathars-VS-Bag-of-everything</MoreInfo>
+        <License>LICENSE</License>
+        <PreviewImage>VSIX_Installer.png</PreviewImage>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
 </PackageManifest>

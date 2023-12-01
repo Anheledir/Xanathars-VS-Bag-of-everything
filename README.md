@@ -28,6 +28,8 @@ The `UpdateExtensions.ps1` script is used to manage the extensions included in t
 4. Follow the on-screen prompts to select or deselect extensions.
 5. The script updates the `Extensions.vsext` file based on your selections.
 
+<img alt="Screenshot of the Update-Script in action" src="./PowerShell_UpdateExtensionsPS1.png" width="640px">
+
 ### Features
 
 - Lists all installed Visual Studio extensions.

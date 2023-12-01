@@ -104,7 +104,7 @@ function Show-Menu {
 
     for ($i = 0; $i -lt $extensions.Count; $i++) {
         $selectedMark = if ($selectedExtensions[$extensions[$i].Identifier]) { "[X]" } else { "[ ]" }
-        $extName = $extensions[$i].Name
+        $extName = $extensions[$i].Name + " (" + $extensions[$i].Author + ")"
         $extColor = if ($extensions[$i].Installed -eq $false) { "Red" } else { "White" }
         
         Write-Host "$i - $selectedMark " -NoNewline

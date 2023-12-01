@@ -1,106 +1,106 @@
 {
+  "version": "1.0.0.0",
   "extensions": [
     {
-      "name": "C# Methods Code Snippets",
-      "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f"
+      "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f",
+      "name": "C# Methods Code Snippets"
     },
     {
-      "name": "C# Var Type CodeLens",
-      "vsixId": "VsVarAdornment.dff56f8c-1aa3-4ece-989f-d7d7c292b775"
+      "vsixId": "VsVarAdornment.dff56f8c-1aa3-4ece-989f-d7d7c292b775",
+      "name": "C# Var Type CodeLens"
     },
     {
-      "name": "DotENV",
-      "vsixId": "01e49a68-16fa-4117-93da-ab2c38191fd2"
+      "vsixId": "01e49a68-16fa-4117-93da-ab2c38191fd2",
+      "name": "DotENV"
     },
     {
-      "name": "Dummy Text Generator",
-      "vsixId": "0007e9e3-b11a-4d10-8565-9c6ce2ccc286"
+      "vsixId": "0007e9e3-b11a-4d10-8565-9c6ce2ccc286",
+      "name": "Dummy Text Generator"
     },
     {
-      "name": "EF Core Power Tools",
-      "vsixId": "f4c4712c-ceae-4803-8e52-0e2049d5de9f"
+      "vsixId": "f4c4712c-ceae-4803-8e52-0e2049d5de9f",
+      "name": "EF Core Power Tools"
     },
     {
-      "name": "EmojiSense",
-      "vsixId": "EmojiSense.2461fd3c-53c0-4e86-a00f-52d181d4a194"
+      "vsixId": "EmojiSense.2461fd3c-53c0-4e86-a00f-52d181d4a194",
+      "name": "EmojiSense"
     },
     {
-      "name": "Error Helper",
-      "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133"
+      "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
+      "name": "Error Helper"
     },
     {
-      "name": "File Icons",
-      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8"
+      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8",
+      "name": "File Icons"
     },
     {
-      "name": "Fix Mixed Tabs 2022",
-      "vsixId": "FixMixedTabs2022.9f1d3050-b986-4b10-ae36-97c6efc5e968"
+      "vsixId": "FixMixedTabs2022.9f1d3050-b986-4b10-ae36-97c6efc5e968",
+      "name": "Fix Mixed Tabs 2022"
     },
     {
-      "name": "Format document on Save",
-      "vsixId": "2f4fac85-be4e-4d7a-8c74-93cc4389b427"
+      "vsixId": "2f4fac85-be4e-4d7a-8c74-93cc4389b427",
+      "name": "Format document on Save"
     },
     {
-      "name": "Git Diff Margin",
-      "vsixId": "GitDiffMargin..5ef9f816-d9ce-45cd-a8fa-cd67a807df0e"
+      "vsixId": "GitDiffMargin..5ef9f816-d9ce-45cd-a8fa-cd67a807df0e",
+      "name": "Git Diff Margin"
     },
     {
-      "name": "Match Margin 2022",
-      "vsixId": "MatchMargin2022.d85a25b5-f7b3-46a9-997e-a2d669dc2c93"
+      "vsixId": "MatchMargin2022.d85a25b5-f7b3-46a9-997e-a2d669dc2c93",
+      "name": "Match Margin 2022"
     },
     {
-      "name": "Mocking.Helpers",
-      "vsixId": "Mocking.Helpers.DC82BF19-0482-4D47-A1FF-7F4CBBAA44D4"
+      "vsixId": "Mocking.Helpers.DC82BF19-0482-4D47-A1FF-7F4CBBAA44D4",
+      "name": "Mocking.Helpers"
     },
     {
-      "name": "Output enhancer",
-      "vsixId": "VSOutputEnhancer.Nikolay Balakin.a06be4c3-f97e-425c-8a0d-bdef08ac2abb"
+      "vsixId": "VSOutputEnhancer.Nikolay Balakin.a06be4c3-f97e-425c-8a0d-bdef08ac2abb",
+      "name": "Output enhancer"
     },
     {
-      "name": "Roslynator 2022",
-      "vsixId": "f326ee1b-81a6-4577-b251-1f29d391cef3"
+      "vsixId": "f326ee1b-81a6-4577-b251-1f29d391cef3",
+      "name": "Roslynator 2022"
     },
     {
-      "name": "Snippetica",
-      "vsixId": "5809355f-dd0b-4463-a439-46f547208e95"
+      "vsixId": "5809355f-dd0b-4463-a439-46f547208e95",
+      "name": "Snippetica"
     },
     {
-      "name": "Solution Error Visualizer 2022",
-      "vsixId": "SolutionErrorVisualizer2022.a392f96b-6b33-4b53-b4bb-3376a05f986c"
+      "vsixId": "SolutionErrorVisualizer2022.a392f96b-6b33-4b53-b4bb-3376a05f986c",
+      "name": "Solution Error Visualizer 2022"
     },
     {
-      "name": "SonarLint for Visual Studio 2022",
-      "vsixId": "SonarLint.0DE19254-1DCA-4479-8EAF-58E5D677FF4D"
+      "vsixId": "SonarLint.0DE19254-1DCA-4479-8EAF-58E5D677FF4D",
+      "name": "SonarLint for Visual Studio 2022"
     },
     {
-      "name": "String Resource Visualizer",
-      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25"
+      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
+      "name": "String Resource Visualizer"
     },
     {
-      "name": "Terraform",
-      "vsixId": "Terraform.d40d8829-581f-472c-aa5d-6514d5dbdde9"
+      "vsixId": "Terraform.d40d8829-581f-472c-aa5d-6514d5dbdde9",
+      "name": "Terraform"
     },
     {
-      "name": "Time Stamp Margin 2022",
-      "vsixId": "TimeStampMargin2022.255e8b14-4a53-4eb7-89a7-7ab741c1f612"
+      "vsixId": "TimeStampMargin2022.255e8b14-4a53-4eb7-89a7-7ab741c1f612",
+      "name": "Time Stamp Margin 2022"
     },
     {
-      "name": "Tweaks 2022",
-      "vsixId": "0c8bd9fa-77d5-4563-ab57-9e01608c3d05"
+      "vsixId": "0c8bd9fa-77d5-4563-ab57-9e01608c3d05",
+      "name": "Tweaks 2022"
     },
     {
-      "name": "Visual Studio Show Inline Errors",
-      "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa"
+      "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa",
+      "name": "Visual Studio Show Inline Errors"
     },
     {
-      "name": "Visual Studio Spell Checker (VS2022 and Later)",
-      "vsixId": "E1019027-EE37-4B1A-AD4C-25CAA92CA2D5"
+      "vsixId": "E1019027-EE37-4B1A-AD4C-25CAA92CA2D5",
+      "name": "Visual Studio Spell Checker (VS2022 and Later)"
     },
     {
-      "name": "xUnit Code Snippets",
-      "vsixId": "d2c46d8d-a104-444a-a1ae-bf620debd2a5"
+      "vsixId": "d2c46d8d-a104-444a-a1ae-bf620debd2a5",
+      "name": "xUnit Code Snippets"
     }
   ],
-  "description": "This is my Visual Studio extension pack with my favorite and commonly used extensions within Microsoft Visual Studio 2022.",
-  "version": "1.0.0.0"
+  "description": "This is my Visual Studio extension pack with my favorite and commonly used extensions within Microsoft Visual Studio 2022."
 }
