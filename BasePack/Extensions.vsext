@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.0",
+  "description": "This is my Visual Studio extension pack with my favorite and commonly used extensions within Microsoft Visual Studio 2022.",
   "extensions": [
     {
       "vsixId": "e2abe71c-24a4-4e59-8cc1-8c7805afe23f",
@@ -10,8 +10,16 @@
       "name": "C# Var Type CodeLens"
     },
     {
+      "vsixId": "e6312c3d-77fc-4bc0-8443-6fb546686c1d",
+      "name": "CodeMaintainability 2022"
+    },
+    {
       "vsixId": "01e49a68-16fa-4117-93da-ab2c38191fd2",
       "name": "DotENV"
+    },
+    {
+      "vsixId": "DoubleClickMaximize2022.050825c2-33a4-4b7d-b3af-bd46bd99a265",
+      "name": "Double-Click Maximize 2022"
     },
     {
       "vsixId": "0007e9e3-b11a-4d10-8565-9c6ce2ccc286",
@@ -46,8 +54,16 @@
       "name": "Git Diff Margin"
     },
     {
+      "vsixId": "7f30a50b-8211-40cf-b881-bd1eb2866478",
+      "name": "HTML Snippet Pack"
+    },
+    {
       "vsixId": "MatchMargin2022.d85a25b5-f7b3-46a9-997e-a2d669dc2c93",
       "name": "Match Margin 2022"
+    },
+    {
+      "vsixId": "Mermaid.EditorForVisualStudio.e5c82390-1fc1-4d02-8b2d-d732b369ffc6",
+      "name": "Mermaid editor for Visual Studio"
     },
     {
       "vsixId": "Mocking.Helpers.DC82BF19-0482-4D47-A1FF-7F4CBBAA44D4",
@@ -56,6 +72,14 @@
     {
       "vsixId": "VSOutputEnhancer.Nikolay Balakin.a06be4c3-f97e-425c-8a0d-bdef08ac2abb",
       "name": "Output enhancer"
+    },
+    {
+      "vsixId": "ProductivityPowerPack2022.0d5b9d71-e118-46de-a20c-555176e53900",
+      "name": "Productivity Power Tools 2022"
+    },
+    {
+      "vsixId": "PPTOptionsPage2022.666715a6-3ac4-4bb7-b538-4d7625f99666",
+      "name": "Productivity Power Tools Options Page 2022"
     },
     {
       "vsixId": "f326ee1b-81a6-4577-b251-1f29d391cef3",
@@ -74,10 +98,6 @@
       "name": "SonarLint for Visual Studio 2022"
     },
     {
-      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
-      "name": "String Resource Visualizer"
-    },
-    {
       "vsixId": "Terraform.d40d8829-581f-472c-aa5d-6514d5dbdde9",
       "name": "Terraform"
     },
@@ -88,6 +108,10 @@
     {
       "vsixId": "0c8bd9fa-77d5-4563-ab57-9e01608c3d05",
       "name": "Tweaks 2022"
+    },
+    {
+      "vsixId": "UnitTestBoilerplate.RandomEngy.ca0bb824-eb5a-41a8-ab39-3b81f03ba3fe",
+      "name": "Unit Test Boilerplate Generator"
     },
     {
       "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa",
@@ -102,5 +126,5 @@
       "name": "xUnit Code Snippets"
     }
   ],
-  "description": "This is my Visual Studio extension pack with my favorite and commonly used extensions within Microsoft Visual Studio 2022."
+  "version": "1.1.0.0"
 }
